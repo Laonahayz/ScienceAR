@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="saladoil" size="3.000000 3.000000" />
+    <ImageTarget name="naoh" size="3.000000 3.000000" />
+    <ImageTarget name="nacl" size="3.000000 3.000000" />
+    <ImageTarget name="h2o" size="3.000000 3.000000" />
+    <ImageTarget name="coconutoil" size="3.000000 3.000000" />
+    <ImageTarget name="alcohol" size="3.000000 3.000000" />
+    <ImageTarget name="spoon" size="3.000000 3.000000" />
+  </Tracking>
+</QCARConfig>

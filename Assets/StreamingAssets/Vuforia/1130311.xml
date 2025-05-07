@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="321" size="1400.000000 1138.000000" />
+    <ImageTarget name="00112" size="1200.000000 847.668396" />
+    <ImageTarget name="02" size="3000.000000 2203.000000" />
+    <ImageTarget name="01" size="1800.000000 1201.000000" />
+    <ImageTarget name="big_target01" size="2005.000000 1417.000000" />
+    <ImageTarget name="big_target" size="2005.000000 2836.997070" />
+    <ImageTarget name="All" size="1754.000000 1240.000000" />
+    <ImageTarget name="hand" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>

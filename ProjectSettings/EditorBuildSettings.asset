@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChooseClass.unity
+    guid: dcf34e4d1299d4f4cb7a2751c8860c86
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 1b1aae72fe27ec946b24257466e3e2a2
+  - enabled: 1
+    path: Assets/ScienceAR_CG/CG_Start.unity
+    guid: 1d032729b29a63e48aff51909afcdb49
+  - enabled: 1
+    path: Assets/Scenes/Demo.unity
+    guid: 165c339dbd48e114fb11d1a98acf2587
+  - enabled: 1
+    path: Assets/ScienceAR_CG/CG_Demo.unity
+    guid: 80acf60b5e64193498402d04a3b3beee
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 17b215cc4b79e8d41ac1e71b61e38c07
+  - enabled: 1
+    path: Assets/ScienceAR_CG/CG_End.unity
+    guid: 11e67b9983c462d48bbae21760a2cca2
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6bea828228a7b534da0405c989fbd79b,
+      type: 2}

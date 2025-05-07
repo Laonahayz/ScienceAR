@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="stirringrod00" size="300.000000 300.000000" />
+    <ImageTarget name="stirringrod" size="5.000000 5.000000" />
+    <ImageTarget name="spoon" size="5.000000 5.000000" />
+    <ImageTarget name="saladoil" size="5.000000 5.000000" />
+    <ImageTarget name="naoh" size="5.000000 5.000000" />
+    <ImageTarget name="nacl" size="5.000000 5.000000" />
+    <ImageTarget name="h2o" size="5.000000 5.000000" />
+    <ImageTarget name="coconutoil" size="5.000000 5.000000" />
+    <ImageTarget name="alcohol" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,31 @@
+# Unity 產生的暫存資料夾，不需要上傳
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# VS 或其他 IDE 的開發檔案
+.vs/
+*.csproj
+*.sln
+*.user
+
+# 系統層級雜檔
+.DS_Store
+Thumbs.db
+
+# 編譯後的產物 / 暫存
+*.apk
+*.log
+*.tmp
+
+# JetBrains Rider IDE
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.tgz

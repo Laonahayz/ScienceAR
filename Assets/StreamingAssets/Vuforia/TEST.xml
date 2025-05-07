@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="TestT" size="300.000000 300.000000" />
+    <ImageTarget name="StirringRod" size="300.000000 300.000000" />
+    <ImageTarget name="spoon" size="300.000000 300.000000" />
+    <ImageTarget name="OIL" size="300.000000 300.000000" />
+    <ImageTarget name="NaOH" size="300.000000 300.000000" />
+    <ImageTarget name="NaCl" size="300.000000 300.000000" />
+    <ImageTarget name="H2O" size="300.000000 300.000000" />
+    <ImageTarget name="Dishes" size="300.000000 300.000000" />
+    <ImageTarget name="CoconutOil" size="300.000000 300.000000" />
+    <ImageTarget name="Beaker" size="300.000000 300.000000" />
+    <ImageTarget name="Alcohol" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>
