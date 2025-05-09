@@ -47,11 +47,11 @@
 
 <h2 style="font-size: 20px;">核心功能模組與腳本對應</h2>
 <ul>
-<li>實驗提示系統（Hint_Manager.cs, Hint_Level.cs）：依學生行為狀況提供不同層級提示</li>
+<li>實驗提示（Hint_Manager.cs, Hint_Level.cs）：依學生行為狀況提供不同層級提示</li>
 <li>互動動畫控制（Beaker_Anim.cs）：控制燒杯加熱、溶液變化等動畫流程</li>
 <li>行為紀錄系統（BehaviorLogger.cs）：記錄學生操作錯誤與互動時間</li>
 <li>答題測驗與回饋引導（QuestionsM2.cs, PersistenceManager.cs）：紀錄錯題並引導重做</li>
-<li>連結問卷功能（Buttons_Control.cs）：流程結束後導引至 Google 表單</li>
+<li>連結問卷跳轉（Buttons_Control.cs）：流程結束後導引至 Google 表單</li>
 </ul>
 
 <h2 style="font-size: 20px;">設計目標</h2>
