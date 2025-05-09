@@ -55,5 +55,5 @@
 <h2 style="font-size: 20px;">系統畫面展示</h2>
 <p>點擊圖片觀看操作影片</p>
 <a href="https://youtu.be/9AJ0i4SlJaA">
-  <img src="Assets/Screenshots/02.png" alt="點擊觀看操作影片" width="300" />
+  <img src="Assets/Screenshots/02.png" alt="點擊觀看操作影片" width="600" />
 </a>
