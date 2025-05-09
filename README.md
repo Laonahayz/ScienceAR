@@ -53,4 +53,7 @@
 <p>本系統旨在確保學生能夠有效學會化學實驗相關步驟與知識，透過圖卡引導、即時回饋、測驗與重試設計，實踐一套完整的 AR 教學輔助架構，並可做為自學平台、翻轉教室或實驗教學前置預習之用。</p>
 
 <h2 style="font-size: 20px;">系統畫面展示</h2>
-![image](https://github.com/Laonahayz/ScienceAR/blob/25a83223c80bdffaf11d6dbbf494378698a62f0b/Assets/Screenshots/01.png)
+<p>點擊圖片觀看操作影片</p>
+<a href="https://youtu.be/9AJ0i4SlJaA">
+  <img src="Assets/Screenshots/02.png" alt="點擊觀看操作影片" width="300" />
+</a>
