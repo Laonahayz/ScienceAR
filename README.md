@@ -1,11 +1,16 @@
 <h1 style="font-size: 28px;">ScienceAR - AR皂化實驗室</h1>
 <p>ScienceAR 是一款執行在 Unity 與 Vuforia 環境下的化學教育實驗系統。</p>
 <p>本系統展示了 AR (擴增實境) 技術在教學互動與流程設計上的應用，支援即時提示、行為紀錄與錯題導向回饋等教學輔助機制。</p>
+
+<h2>執行平台</h2>
+<p>本系統在iOS平台運行，支援 iPhone 與 iPad 裝置。</p>
+
 <h2 style="font-size: 20px;">系統畫面展示</h2>
 <p>點擊圖片觀看操作影片</p>
 <a href="https://youtu.be/9AJ0i4SlJaA">
   <img src="Assets/Screenshots/02.png" alt="點擊觀看操作影片" width="600" />
 </a>
+
 <h2 style="font-size: 20px;">系統構成</h2>
 <p>整個系統分為以下幾個階段：</p>
 <h3 style="font-size: 16px;">1. 實驗操作階段</h3>
