@@ -5,11 +5,24 @@
   並強化知識理解與應用。
 </p>
 
-<h2 style="font-size: 20px;">系統畫面展示</h2>
+<h2 style="font-size: 20px;">系統展示</h2>
+<h3 style="font-size: 16px;">截圖</h3>
+<table>
+  <tr>
+    <td><img src="Assets/Screenshots/03.png" alt="畫面1" width="350" /></td>
+    <td><img src="Assets/Screenshots/04.png" alt="畫面2" width="350" /></td>
+  </tr>
+  <tr>
+    <td><img src="Assets/Screenshots/05.png" alt="畫面3" width="350" /></td>
+    <td><img src="Assets/Screenshots/01.png" alt="畫面4" width="350" /></td>
+  </tr>
+</table>
+<h3 style="font-size: 16px;">操作影片</h3>
 <p>點擊圖片觀看操作影片</p>
 <a href="https://youtu.be/9AJ0i4SlJaA">
   <img src="Assets/Screenshots/02.png" alt="點擊觀看操作影片" width="600" />
 </a>
+
 
 <h2>專案用途</h2>
 <p>
