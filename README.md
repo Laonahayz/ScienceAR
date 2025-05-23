@@ -6,7 +6,7 @@
 </p>
 
 <h2 style="font-size: 20px;">系統展示</h2>
-<h3 style="font-size: 16px;">截圖</h3>
+<h3 style="font-size: 16px;">系統畫面</h3>
 <table>
   <tr>
     <td><img src="Assets/Screenshots/03.png" alt="畫面1" width="350" /></td>
