@@ -47,7 +47,7 @@
 
 <h2>開發工具</h2>
 <ul>
-  <li>Unity 2019.x</li>
+  <li>Unity 2022.3.16f1</li>
   <li>Vuforia Engine</li>
   <li>C# / Unity API</li>
   <li>Lean Touch Plugin</li>
